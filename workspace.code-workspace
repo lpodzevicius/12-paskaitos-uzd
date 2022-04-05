@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\12 paskaitos uzt duota info\\resources"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "12 paskaitos uzd",
+		"liveServer.settings.port": 5501
+	}
+}
